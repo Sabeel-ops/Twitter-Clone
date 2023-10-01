@@ -43,16 +43,27 @@ module.exports = {
       width: {
         '334': '20.875rem',
         '442': '27.625rem',
+        '434': '27.125rem',
+        '426': '26.625rem',
         '85': '5.3125rem',
-        '98': '6.125', 
+        '98': '6.125rem',
+        '222': '13.875rem', 
+      },
+      height: {
+        '36': '2.25rem',
       },
       borderRadius: {
         '65': '65px',
         '30': '30px',
+        '9999':'9999px'
       },
       boxShadow: {
         'button': '0 8px 16px 0px rgba(0, 0, 0, 0.25)',
       },
+      spacing: {
+        '15px': '15px',
+        '93px': '93px',
+      }
     },
   },
   plugins: [],
